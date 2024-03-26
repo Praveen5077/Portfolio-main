@@ -10,11 +10,7 @@ This is my portfolio website built using HTML, CSS, and JavaScript. It features 
 
 ## Usage
 
-1. Clone the repository:
-
-   git clone https://github.com/Yahavarshini/Portfolio.git
-
-2. Open the `index.html` file in your web browser to view the portfolio.
+1. Open the `index.html` file in your web browser to view the portfolio.
 
 ## Technologies Used
 
@@ -30,4 +26,4 @@ This is my portfolio website built using HTML, CSS, and JavaScript. It features 
 
 ## Author
 
-[Yahavarshini](https://github.com/Yahavarshini/)
+[Praveen Kumar R](https://github.com/Praveen5077/Portfolio-main)
